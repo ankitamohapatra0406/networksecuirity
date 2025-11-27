@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ankit/OneDrive/Desktop/networksecurity/mlruns/0/models/m-a60f6e222343442a9d9408d161f042c5/artifacts
+creation_timestamp: 1764268909489
+experiment_id: '0'
+last_updated_timestamp: 1764268918763
+model_id: m-a60f6e222343442a9d9408d161f042c5
+model_type: null
+name: model
+source_run_id: 142733f69af140a892432bf88a963468
+status: 2
+status_message: null
