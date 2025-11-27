@@ -42,7 +42,6 @@ if __name__=='__main__':
         model_trainer_artifact=model_trainer.initiate_model_trainer()
 
         logging.info("Model Training artifact created")
-
         
     except Exception as e:
            raise NetworkSecurityException(e,sys)
